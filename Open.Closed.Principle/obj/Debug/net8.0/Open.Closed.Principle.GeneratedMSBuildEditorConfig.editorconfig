@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Open.Close.Principle
-build_property.ProjectDir = C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\
+build_property.ProjectDir = C:\Users\joopa\source\repos\Solid\Open.Closed.Principle\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

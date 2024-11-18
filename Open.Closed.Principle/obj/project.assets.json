@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joopa\\RiderProjects\\Solid\\Open.Closed.Principle\\Open.Closed.Principle.csproj",
+      "projectUniqueName": "C:\\Users\\joopa\\source\\repos\\Solid\\Open.Closed.Principle\\Open.Closed.Principle.csproj",
       "projectName": "Open.Closed.Principle",
-      "projectPath": "C:\\Users\\joopa\\RiderProjects\\Solid\\Open.Closed.Principle\\Open.Closed.Principle.csproj",
+      "projectPath": "C:\\Users\\joopa\\source\\repos\\Solid\\Open.Closed.Principle\\Open.Closed.Principle.csproj",
       "packagesPath": "C:\\Users\\joopa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joopa\\RiderProjects\\Solid\\Open.Closed.Principle\\obj\\",
+      "outputPath": "C:\\Users\\joopa\\source\\repos\\Solid\\Open.Closed.Principle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
