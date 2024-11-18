@@ -1,0 +1,14 @@
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\bin\Debug\net8.0\Single.Responsability.Principle.exe
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\bin\Debug\net8.0\Single.Responsability.Principle.deps.json
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\bin\Debug\net8.0\Single.Responsability.Principle.runtimeconfig.json
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\bin\Debug\net8.0\Single.Responsability.Principle.dll
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\bin\Debug\net8.0\Single.Responsability.Principle.pdb
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\obj\Debug\net8.0\Single.Responsability.Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\obj\Debug\net8.0\Single.Responsability.Principle.AssemblyInfoInputs.cache
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\obj\Debug\net8.0\Single.Responsability.Principle.AssemblyInfo.cs
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\obj\Debug\net8.0\Single.Responsability.Principle.csproj.CoreCompileInputs.cache
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\obj\Debug\net8.0\Single.Responsability.Principle.dll
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\obj\Debug\net8.0\refint\Single.Responsability.Principle.dll
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\obj\Debug\net8.0\Single.Responsability.Principle.pdb
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\obj\Debug\net8.0\Single.Responsability.Principle.genruntimeconfig.cache
+C:\Users\joopa\RiderProjects\Solid\Single.Responsability.Principle\obj\Debug\net8.0\ref\Single.Responsability.Principle.dll

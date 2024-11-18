@@ -1,0 +1,14 @@
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\bin\Debug\net8.0\Open.Closed.Principle.exe
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\bin\Debug\net8.0\Open.Closed.Principle.deps.json
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\bin\Debug\net8.0\Open.Closed.Principle.runtimeconfig.json
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\bin\Debug\net8.0\Open.Closed.Principle.dll
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\bin\Debug\net8.0\Open.Closed.Principle.pdb
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\obj\Debug\net8.0\Open.Closed.Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\obj\Debug\net8.0\Open.Closed.Principle.AssemblyInfoInputs.cache
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\obj\Debug\net8.0\Open.Closed.Principle.AssemblyInfo.cs
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\obj\Debug\net8.0\Open.Closed.Principle.csproj.CoreCompileInputs.cache
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\obj\Debug\net8.0\Open.Closed.Principle.dll
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\obj\Debug\net8.0\refint\Open.Closed.Principle.dll
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\obj\Debug\net8.0\Open.Closed.Principle.pdb
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\obj\Debug\net8.0\Open.Closed.Principle.genruntimeconfig.cache
+C:\Users\joopa\RiderProjects\Solid\Open.Closed.Principle\obj\Debug\net8.0\ref\Open.Closed.Principle.dll
